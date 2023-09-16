@@ -4,16 +4,16 @@ This repository contains a machine learning project for stock market prediction.
 
 Table of Contents
 
-Getting Started
-Prerequisites
-Installation
-Usage
-Data
-Models
-Evaluation
-Contributing
-License
-Getting Started
+1.Getting Started
+2.Prerequisites
+3.Installation
+4.Usage
+5.Data
+6.Models
+7.Evaluation
+8.Contributing
+9.License
+10.Getting Started
 
 Prerequisites
 Before you begin, ensure you have met the following requirements:
