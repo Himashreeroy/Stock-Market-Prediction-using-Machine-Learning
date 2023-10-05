@@ -1,7 +1,7 @@
 # imports - compatibility packages
 from __future__ import absolute_import
 
-# imports - third-party packages
+# imports - third-party packages 
 import numpy as np
 from sklearn.preprocessing import MinMaxScaler
 
